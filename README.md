@@ -1,0 +1,2 @@
+# -Classic-Snake-Game-Powered-by-DQN
+A classic Snake game powered by a Deep Q-Network (DQN) reinforcement learning agent. The AI learns to navigate, collect food, and avoid collisions through trial and error, improving over time with experience replay and reward optimization. Demonstrates RL concepts in a fun, interactive environment.
